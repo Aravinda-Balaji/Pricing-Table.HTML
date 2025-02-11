@@ -1,1 +1,1 @@
-# Pricing-Table.HTML
+# Pricing-Table
